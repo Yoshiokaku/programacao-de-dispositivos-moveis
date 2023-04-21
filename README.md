@@ -1,16 +1,6 @@
 # app_saude
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Trabalho realizado para a disciplina de Programação de Dispositivos Móveis, do curso de Análise e Desenvolvimento de Sistemas da Fatec Ribeirão Preto.
+Integrantes da equipe: 
+Nome: Tales Yoshio Kaku Moreira       RA: 2840481921017
+Nome: João Victor Masson de Carvalho  RA: 2840482111023
